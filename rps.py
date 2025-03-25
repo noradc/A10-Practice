@@ -1,5 +1,5 @@
 # This game was built using GitHub Copilot, but notably the code
-# matches this website's version almost identically:
+# matches this website's version almost identically!:
 #   https://realpython.com/python-rock-paper-scissors/
 
 import random
